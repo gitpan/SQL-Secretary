@@ -1,0 +1,6 @@
+Revision history for Perl extension SQL::Secretary.
+
+0.01  Tue Jan  8 03:12:16 2002
+	- original version; created by h2xs 1.1.1.4 with options
+		-A -X -n SQL::Secretary
+
